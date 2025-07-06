@@ -19,4 +19,4 @@ Canva, Notion, WordPress, Trello, Jira, ChatGPT, Google Suite.
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/fabricio-ramos-dos-santos/)
-- Email: [seuemail@dominio.com](mailto:seuemail@dominio.com)
+- Email: [professorfabriciors@gmail.com](mailto:seuemail@dominio.com)
